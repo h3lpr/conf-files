@@ -10,7 +10,7 @@ set ignorecase              " case insensitive matching
 set incsearch               " incremental search
 set linebreak               " Avoid wrapping a line in the middle of a word
 set mouse=a                 " set mouse compatibility
-"set mouse=v                " enable paste with middle mouse button
+set mouse=v                 " enable paste with middle mouse button
 set nocompatible            " disable compatibility to old-time vi
 set number                  " add line numbers
 set ruler                   " always show cursor position
