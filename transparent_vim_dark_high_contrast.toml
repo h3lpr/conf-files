@@ -1,0 +1,2 @@
+inherits = "vim_dark_high_contrast"
+"ui.background" = {}
